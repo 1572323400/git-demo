@@ -6,6 +6,11 @@ hello world;
 hello world;呜呜呜 88888888888
 hello world;
 hello world;
+<<<<<<< HEAD
 hello world; heihei  jiuyuanle
 hello world; haihai this is githubDesk
+=======
+hello world;
+hello world;
+>>>>>>> parent of 3911cd4 (jiuyuanle commit)
 hello world;
